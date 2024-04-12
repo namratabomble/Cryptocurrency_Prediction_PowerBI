@@ -18,4 +18,4 @@ User-Friendly Interface: Intuitive design with easy-to-understand visuals and ch
 Before accessing the dashboard, ensure you have the following:
 
 Power BI Desktop: Download and Install Power BI Desktop
-Cryptocurrency Data Source: Access to a dataset or API providing cryptocurrency price and market data.
+Cryptocurrency Data Source: Access to a dataset providing cryptocurrency price and market data.
